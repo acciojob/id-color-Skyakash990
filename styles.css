@@ -4,7 +4,11 @@
 	border-left-style:solid;
 	border-right-style:solid;
 	border-bottom-style:solid;
-	border-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
+	
 	border:solid green;
 	background-color:yellow;
 }
@@ -14,7 +18,10 @@
 	border-right-style:solid;
 	border-bottom-style:solid;
 	background-color:red;
-	border-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
 	border: solid black;
 }
 #green{
@@ -23,6 +30,9 @@
 	border-right-style:solid;
 	border-bottom-style:solid;
 	background-color:green;
-	border-width:1px;
+	border-top-width:1px;
+	border-bottom-width:1px;
+	border-left-width:1px;
+	border-right-width:1px;
 	border:solid yellow;
 }
